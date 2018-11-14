@@ -1,7 +1,7 @@
 TellMeFirst Test Indexes
 ========================
 
-Small indexes and other input files for testing [TellMeFirst] (https://github.com/TellMeFirst/tellmefirst), a tool for classifying and enriching textual documents via Linked Open Data.
+Small indexes and other input files for testing [TellMeFirst](https://github.com/TellMeFirst/tellmefirst), a tool for classifying and enriching textual documents via Linked Open Data.
 
 TellMeFirst exploits [Lucene](http://lucene.apache.org/core/) Indexes for its classification and enrichment system. To build the TellMeFirst Indexes you can exploit our [fork of the DBpedia Spotlight project](https://github.com/TellMeFirst/dbpedia-spotlight/tree/tellmefirst).
 
